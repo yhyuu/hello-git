@@ -8,8 +8,11 @@
 
 ## 我今天学会了
 
-- 配置 Git 的用户名和邮箱
-- 让 Git 走代理访问 GitHub
-- 建仓库、提交、推送到 GitHub
+* 配置 Git 的用户名和邮箱
+* 让 Git 走代理访问 GitHub
+* 建仓库、提交、推送到 GitHub
 
 ## 在网页上更改readme？
+
+## 在本地更改readme？
+
